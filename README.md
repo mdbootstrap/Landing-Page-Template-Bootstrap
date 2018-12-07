@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/landing-page.jpg)](https://mdbootstrap.com/freebies/landing-page-template/)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/landing-page.jpg)](https://mdbootstrap.com/freebies/jquery/landing-page/)
 
 # Bootstrap 4 & Material Design - Landing Page Template 
 
@@ -7,7 +7,7 @@ Free, responsive Landing Page template containing stunning, full or half-page In
 ________
 
 # Live Previews: 
-## https://mdbootstrap.com/freebies/landing-page-template/
+## https://mdbootstrap.com/freebies/jquery/landing-page/
 
 # Most important features:
 
